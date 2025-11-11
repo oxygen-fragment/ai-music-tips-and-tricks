@@ -5,17 +5,29 @@
 ### Basics
 
 > [verse]
+> 
 > And now for something completely magic
+> 
 > [chorus]
+> 
 > It's all about a girl
+> 
 > Who digs a guy
+> 
 > [verse]
+> 
 > And-
+> 
 > And now-
+> 
 > A-a-a-a-a-
+> 
 > And now for something completely magic
+> 
 > [chorus]
+> 
 > It's all about a girl
+> 
 > Who digs a guy
 
 - Define `verse` and `chorus` elements
@@ -29,8 +41,11 @@ Example, [here, Ghosts of You](https://www.udio.com/songs/x1jDBEPzqy6izU94qS24oD
 [1] credit [@mixofthings](https://suno.com/@mixofthings)
 
 >Choir: Ave Solis Vacuus…
+>
 >Lead: I am reborn in your ruinous sun.
+>
 >Choir: Deus Mortis Vocet…
+>
 >Lead: Salvation bleeds where faith begun.
 
 - Alternate between two (or more?) vocal styles
