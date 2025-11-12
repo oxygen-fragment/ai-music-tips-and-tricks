@@ -44,8 +44,8 @@ The tune you hum. The "notes" part of the song.
 
 **In AI prompts:**
 
-- "Rich harmonies"
-- "Tight vocal harmonies"
+- "Rich harmonies" see [Rich Harmonies Examples](/samples/harmonies/rich-harmonies.md)
+- "Tight vocal harmonies" see [Tight Vocal Harmonies Examples](/samples/harmonies/tight-vocal-harmonies.md)
 - "Minimal harmony" (sparse)
 
 ---
