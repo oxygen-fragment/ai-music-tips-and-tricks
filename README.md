@@ -2,6 +2,8 @@
 
 A comprehensive guide for music lovers who want to create with AI but don't have formal music theory training. Learn prompting techniques, music fundamentals in plain English, and how to add your own unique sounds.
 
+**If you find this useful you can  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I5ZJUA3)**
+
 ## What's Inside
 
 ### 📚 [Fundamentals](docs/fundamentals/)
