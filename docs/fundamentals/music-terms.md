@@ -46,7 +46,7 @@ The tune you hum. The "notes" part of the song.
 
 - "Rich harmonies" see [Rich Harmonies Examples](/samples/harmonies/rich-harmonies.md)
 - "Tight vocal harmonies" see [Tight Vocal Harmonies Examples](/samples/harmonies/tight-vocal-harmonies.md)
-- "Minimal harmony" (sparse)
+- "Minimal harmony" (sparse) see [Minimal Harmonies Examples](/samples/harmonies/minimal-harmonies.md)
 
 ---
 
