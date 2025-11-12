@@ -66,9 +66,9 @@ The tune you hum. The "notes" part of the song.
 
 **In AI prompts:**
 
-- "Driving rhythm"
-- "Syncopated rhythm" (off-beat)
-- "Steady rhythm"
+- "Driving rhythm" see [Driving Rhythm Examples](/samples/rhythm/driving-rhythm.md)
+- "Syncopated rhythm" (off-beat) see [Syncopated Rhythm Examples](/samples/rhythm/syncopated-rhythm.md)
+- "Steady rhythm" see [Steady Rhythm Examples](/samples/rhythm/steady-rhythm.md)
 
 ---
 
