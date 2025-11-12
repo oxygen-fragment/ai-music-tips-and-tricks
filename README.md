@@ -5,29 +5,29 @@
 ### Basics
 
 > [verse]
-> 
+>
 > And now for something completely magic
-> 
+>
 > [chorus]
-> 
+>
 > It's all about a girl
-> 
+>
 > Who digs a guy
-> 
+>
 > [verse]
-> 
+>
 > And-
-> 
+>
 > And now-
-> 
+>
 > A-a-a-a-a-
-> 
+>
 > And now for something completely magic
-> 
+>
 > [chorus]
-> 
+>
 > It's all about a girl
-> 
+>
 > Who digs a guy
 
 - Define `verse` and `chorus` elements
@@ -69,4 +69,3 @@ On the Inspo tab (Create -> Inspo) you can create a playlist from similar songs 
 - @mixofthings
 
 ### Udio
-
