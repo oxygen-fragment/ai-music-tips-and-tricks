@@ -1,71 +1,135 @@
 # ai-music-tips-and-tricks
 
-## Examples
+A comprehensive guide for music lovers who want to create with AI but don't have formal music theory training. Learn prompting techniques, music fundamentals in plain English, and how to add your own unique sounds.
 
-### Basics
+## What's Inside
 
-> [verse]
->
-> And now for something completely magic
->
-> [chorus]
->
-> It's all about a girl
->
-> Who digs a guy
->
-> [verse]
->
-> And-
->
-> And now-
->
-> A-a-a-a-a-
->
-> And now for something completely magic
->
-> [chorus]
->
-> It's all about a girl
->
-> Who digs a guy
+### 📚 [Fundamentals](docs/fundamentals/)
 
-- Define `verse` and `chorus` elements
+- [Song Structure](docs/fundamentals/song-structure.md) - Verse, chorus, bridge explained
+- [Music Terms](docs/fundamentals/music-terms.md) - Melody, harmony, rhythm in plain English
+- [Beats & Rhythms](docs/fundamentals/beats-and-rhythms.md) - BPM, time signatures, common patterns
 
-Example, [here, Ghosts of You](https://www.udio.com/songs/x1jDBEPzqy6izU94qS24oD)
+### 🎤 [Sound Design](docs/sound-design/)
 
->“Dominus Lucis, abandon the dawn…” + `[reading to a church]`
+- [DIY Recording](docs/sound-design/diy-recording.md) - Make sounds with household items
+- [Processing Sounds](docs/sound-design/processing-sounds.md) - Edit and transform recordings
+- [Integration Methods](docs/sound-design/integration-methods.md) - Combine DIY sounds with AI music
 
-- whispered voice[1]
+### 🎹 [Platform Guides](docs/platforms/)
 
-[1] credit [@mixofthings](https://suno.com/@mixofthings)
+- [Suno](docs/platforms/suno.md) - Platform-specific tips
+- [Udio](docs/platforms/udio.md) - Platform-specific tips
 
->Choir: Ave Solis Vacuus…
->
->Lead: I am reborn in your ruinous sun.
->
->Choir: Deus Mortis Vocet…
->
->Lead: Salvation bleeds where faith begun.
+### 🎵 [Sample Library](samples/)
 
-- Alternate between two (or more?) vocal styles
+Categorized examples with audio samples and prompts that generated them.
 
-[2] credit [@mixofthings](https://suno.com/@mixofthings) ([[@mixofthings - Sermon of the Hollow Sun](https://suno.com/song/4c0bd323-d5e5-4849-849a-dc49d105e976)])
+---
 
-### Advanced
+## Quick Start Examples
 
-...blah
+### Basic Structure Tags
 
-## Specific Samples (music 'language' and how it's interpreted)
+```
+[verse]
+And now for something completely magic
 
-Acapella - [Acapella Sample](https://suno.com/s/BRAN7NASp0kaAvpm)
+[chorus]
+It's all about a girl
+Who digs a guy
 
-## Platform-specific
+[verse]
+And-
+And now-
+A-a-a-a-a-
+And now for something completely magic
+
+[chorus]
+It's all about a girl
+Who digs a guy
+```
+
+Define `verse` and `chorus` elements for song structure.
+
+Example: [Ghosts of You](https://www.udio.com/songs/x1jDBEPzqy6izU94qS24oD)
+
+### Vocal Style Control
+
+```
+"Dominus Lucis, abandon the dawn…" + [reading to a church]
+```
+
+Creates whispered voice effect.
+
+Credit: [@mixofthings](https://suno.com/@mixofthings)
+
+### Alternating Vocals
+
+```
+Choir: Ave Solis Vacuus…
+Lead: I am reborn in your ruinous sun.
+Choir: Deus Mortis Vocet…
+Lead: Salvation bleeds where faith begun.
+```
+
+Alternate between two (or more) vocal styles in same track.
+
+Credit: [@mixofthings](https://suno.com/@mixofthings) - [Sermon of the Hollow Sun](https://suno.com/song/4c0bd323-d5e5-4849-849a-dc49d105e976)
+
+---
+
+## Specific Samples
+
+### Acapella
+
+[Sample](https://suno.com/s/BRAN7NASp0kaAvpm) - Vocals only, no instruments
+
+---
+
+## Platform-Specific Tips
 
 ### Suno
 
-On the Inspo tab (Create -> Inspo) you can create a playlist from similar songs on suno that you heard. and use that playlist to create a style you want.
+#### Inspiration Playlist Method
 
-- @mixofthings
+1. Go to Create → Inspo tab
+2. Create playlist from similar songs you like
+3. Use that playlist to define style for new creations
+
+Credit: @mixofthings
 
 ### Udio
+
+(Coming soon)
+
+---
+
+## Contributing
+
+Found a technique that works? Submit a PR with:
+
+- Clear explanation for beginners
+- Audio sample (if possible)
+- The prompt that generated it
+- Credit to original discoverer
+
+---
+
+## Learning Path
+
+### New to music? Start here
+
+1. [Song Structure](docs/fundamentals/song-structure.md)
+2. [Music Terms](docs/fundamentals/music-terms.md)
+3. [Beats & Rhythms](docs/fundamentals/beats-and-rhythms.md)
+
+### Know the basics?
+
+1. [DIY Recording](docs/sound-design/diy-recording.md)
+2. Platform guides: [Suno](docs/platforms/suno.md) | [Udio](docs/platforms/udio.md)
+
+### Advanced?
+
+1. [Sample Library](samples/) for inspiration
+2. Contribute your own techniques
