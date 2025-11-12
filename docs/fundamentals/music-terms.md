@@ -22,9 +22,9 @@ The tune you hum. The "notes" part of the song.
 
 **In AI prompts:**
 
-- "Catchy melody"
-- "Simple melodic line"
-- "Complex melodic runs"
+- "Catchy melody" see [Catchy Melody Examples](/samples/melodies/catchy-melody.md)
+- "Simple melodic line" see [Simple Melodic Lines Examples](/samples/melodies/simple-melodic-line.md)
+- "Complex melodic runs" see [Complex Melodic Runs Examples](/samples/melodies/complex-melodic-runs.md)
 
 ---
 

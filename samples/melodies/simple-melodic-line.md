@@ -1,4 +1,4 @@
-# Examples of Simple Melodic Lines
+# Simple Melodic Lines Examples
 
 [Simple Melodic Line (Kid's song)](https://suno.com/s/ZAMY3DsTqDBJ4589)
 
