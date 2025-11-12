@@ -12,7 +12,13 @@ From my testing, I've noticed the following effects:
 
 Suno will infer a lot more using your prompt.
 
-**Example:** "Complex melodic runs (30 seconds maximum)" turns into, "piano-driven, with complex melodic runs and dynamic builds, intricate, pop, complex".
+**Example:**
+
+>Complex melodic runs (30 seconds maximum)
+
+turns into,
+
+>piano-driven, with complex melodic runs and dynamic builds, intricate, pop, complex
 
 **NOTE:** During testing, Suno did **not** adhere to the parenthesized instructions, i.e. Suno created a 2 minute 30 second plus song.
 
@@ -20,7 +26,11 @@ Suno will infer a lot more using your prompt.
 
 Suno is faithful to whatever prompt you use.
 
-**Example:** "Complex melodic runs (30 seconds maximum)" stays exactly the same.
+**Example:**
+
+>Complex melodic runs (30 seconds maximum)
+
+Stays exactly the same.
 
 **NOTE:** Songs generated were under 30 seconds in length.
 
