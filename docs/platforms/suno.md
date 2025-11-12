@@ -58,3 +58,9 @@ With the chorus, you only need to define the lyrics *once*. After the first chor
 ### Lyrics
 
 Leave lyrics blank for an instrumental track.
+
+## Quirks
+
+### Multiple Selections
+
+When selecting multiple tracks, it's not clear what you can do. To take some action on all you've selected, after selection, click on the 3 dots on any of the selected songs and pick from that menu.
