@@ -78,3 +78,7 @@ Having two instructions in parentheses seems to confuse the model. Example:
 >Slow tempo (60 BPM, 30 seconds maximum)
 
 Suno provided a 31 second and a 59 second song.  This may have been due to "60 BPM" being redundant, will require more testing.
+
+### UI
+
+- Pressing `Enter` in the Publish song screen doesn't publish

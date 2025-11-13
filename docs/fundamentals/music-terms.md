@@ -124,7 +124,7 @@ The "color" or "texture" of a sound. Why different instruments playing the same 
 
 ### Cadence
 
-**What it is:** How a musical phrase ends. Musical punctuation.
+How a musical phrase ends. Musical punctuation.
 
 **Think of it as:**
 
@@ -135,8 +135,8 @@ The "color" or "texture" of a sound. Why different instruments playing the same 
 
 **In AI prompts:** Usually automatic, but you can request:
 
-- "Unresolved ending" (weak cadence)
-- "Definitive ending" (strong cadence)
+- "Unresolved ending" (weak cadence) see [Unresolved Ending Cadence Examples](/samples/cadence/unresolved-ending.md)
+- "Definitive ending" (strong cadence) see [Definitive Ending Cadence Examples](/samples/cadence/definitive-ending.md)
 
 ---
 
