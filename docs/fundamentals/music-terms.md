@@ -96,7 +96,7 @@ How fast or slow the song moves. Measured in BPM (beats per minute).
 
 ### Timbre (pronounced TAM-ber)
 
-**What it is:** The "color" or "texture" of a sound. Why different instruments playing the same note sound different.
+The "color" or "texture" of a sound. Why different instruments playing the same note sound different.
 
 **Think of it as:** The difference between your voice and your friend's voice saying the same word.
 
@@ -114,9 +114,9 @@ How fast or slow the song moves. Measured in BPM (beats per minute).
 
 **In AI prompts:**
 
-- "Warm acoustic guitar"
-- "Bright synth leads"
-- "Dark, brooding bass"
+- "Warm acoustic guitar" see [Warm Acoustic Guitar Examples](/samples/timbre/warm-acoustic-guitar.md)
+- "Bright synth leads" see [Bright Synth Leads Examples](/samples/timbre/bright-synth-leads.md)
+- "Dark, brooding bass" see [Dark, Brooding Bass Examples](/samples/timbre/dark-brooding-bass.md)
 
 ---
 
