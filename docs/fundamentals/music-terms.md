@@ -142,7 +142,7 @@ How a musical phrase ends. Musical punctuation.
 
 ### Dynamics
 
-**What it is:** Loud vs soft. Volume changes throughout the song.
+Loud vs soft. Volume changes throughout the song.
 
 **Think of it as:** The emotional intensity dial.
 
