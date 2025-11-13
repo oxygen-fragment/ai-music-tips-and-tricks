@@ -30,7 +30,7 @@ The tune you hum. The "notes" part of the song.
 
 ### Harmony
 
-**What it is:** Supporting notes that make the melody richer. Multiple notes played together.
+Supporting notes that make the melody richer. Multiple notes played together.
 
 **Think of it as:** Background singers or chord progressions that fill out the sound.
 
@@ -52,7 +52,7 @@ The tune you hum. The "notes" part of the song.
 
 ### Rhythm
 
-**What it is:** When notes happen. The timing pattern.
+When notes happen. The timing pattern.
 
 **Think of it as:** The difference between speech (free-flowing) and a drumbeat (structured timing).
 
@@ -74,7 +74,7 @@ The tune you hum. The "notes" part of the song.
 
 ### Tempo
 
-**What it is:** How fast or slow the song moves. Measured in BPM (beats per minute).
+How fast or slow the song moves. Measured in BPM (beats per minute).
 
 **Think of it as:** The song's speedometer.
 
@@ -88,9 +88,9 @@ The tune you hum. The "notes" part of the song.
 
 **In AI prompts:**
 
-- "Slow tempo" or "60 BPM"
-- "Uptempo" or "130 BPM"
-- "Moderate pace"
+- "Slow tempo" or "60 BPM" see [Slow Tempo Examples](/samples/tempo/slow-tempo.md)
+- "Uptempo" or "130 BPM" see [Uptempo Examples](/samples/tempo/uptempo.md)
+- "Moderate pace" see [Moderate Pace Examples](/samples/tempo/moderate-pace.md)
 
 ---
 

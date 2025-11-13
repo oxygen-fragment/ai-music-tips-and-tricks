@@ -64,3 +64,17 @@ Leave lyrics blank for an instrumental track.
 ### Multiple Selections
 
 When selecting multiple tracks, it's not clear what you can do. To take some action on all you've selected, after selection, click on the 3 dots on any of the selected songs and pick from that menu.
+
+### Parentheses (extra instructions)
+
+Through testing it was discovered that Suno will adhere to **one** instruction that is provided in parentheses. For example:
+
+>[first part of your prompt] (30 seconds maximum)
+
+Will yield a 30 second or less song.
+
+Having two instructions in parentheses seems to confuse the model. Example:
+
+>Slow tempo (60 BPM, 30 seconds maximum)
+
+Suno provided a 31 second and a 59 second song.  This may have been due to "60 BPM" being redundant, will require more testing.
