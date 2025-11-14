@@ -157,8 +157,8 @@ Loud vs soft. Volume changes throughout the song.
 
 **In AI prompts:**
 
-- "Quiet verse, explosive chorus"
-- "Gradual build"
+- "Quiet verse, explosive chorus" see [Dynamics: Quiet Verse, Explosive Chorus Examples](/samples/dynamics/quiet-verse-explosive-chorus.md)
+- "Gradual build" see [Dynamics: Gradual Build Examples](/samples/dynamics/gradual-build.md)
 - "Soft and intimate"
 
 ---
