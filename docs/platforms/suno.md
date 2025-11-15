@@ -44,6 +44,42 @@ By default, Suno seems to generate songs that are around 2 minutes 30 seconds in
 
 During testing, I found that it generated two versions, one 18 seconds and the other 29 seconds.
 
+## Advanced Options
+
+### Exclude styles
+
+{ADD STUFF HERE}
+
+### Voice Gender
+
+Male/Female
+
+{ADD STUFF HERE}
+
+### Lyrics Mode
+
+Manual/Auto
+
+{ADD STUFF HERE}
+
+### Weirdness
+
+0-100%
+
+#### Observed Weirdness Effects
+
+{STUFF HERE}
+
+### Style Influence
+
+0-100%
+
+85%+ "danger zone"
+
+#### Observed Style Influence Effects
+
+- > 85% increased chance of unwanted audio artifacts (think: scratched CD)
+
 ## Song Structure and Lyrics
 
 ### Chorus
