@@ -44,6 +44,18 @@ By default, Suno seems to generate songs that are around 2 minutes 30 seconds in
 
 During testing, I found that it generated two versions, one 18 seconds and the other 29 seconds.
 
+## Add Audio
+
+Upload audio and Suno will generate a detailed description that can be used as a prompt.
+
+## Add Persona
+
+Reuse a persona you've saved.
+
+## Add Inspo (Inspiration)
+
+When you want to take inspiration from your previously created songs (select from your playlists).
+
 ## Advanced Options
 
 ### Exclude styles
@@ -78,7 +90,7 @@ Manual/Auto
 
 #### Observed Style Influence Effects
 
-- > 85% increased chance of unwanted audio artifacts (think: scratched CD)
+- `> 85%`: increased chance of unwanted audio artifacts (think: scratched CD)
 
 ## Song Structure and Lyrics
 
