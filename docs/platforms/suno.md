@@ -130,3 +130,13 @@ Suno provided a 31 second and a 59 second song.  This may have been due to "60 B
 ### UI
 
 - Pressing `Enter` in the Publish song screen doesn't publish
+
+## Community Wants / Experiments to try
+
+[speaking through laughter] [^1]
+
+
+
+## References
+
+[^1]
