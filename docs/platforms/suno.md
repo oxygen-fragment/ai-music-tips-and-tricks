@@ -1,5 +1,23 @@
 # Techniques that have been tested with Suno
 
+## Credits
+
+What use credits?
+
+### Cost Credits
+
+- Creating song (10 credits)
+- Extending song (10 credits)
+- Replace section (4 credits)
+
+### Free (doesn't use credits)
+
+- Full song generation
+
+### Bonus Credits
+
+- If you go below 10 credits, you are gifted 50 credits (once per day)
+
 ## Simple vs. Custom tab
 
 In Suno, switching between the Simple and Custom tabs has a number of effects.
