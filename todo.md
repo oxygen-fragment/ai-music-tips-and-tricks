@@ -11,3 +11,5 @@
 - [ ] figure out where unknown tags fit (collection of tags to test, etc.)
 - [ ] add Experiments (where should they go?) for different colours in Styles
 - [ ] add this somewhere: UK vs. US spelling in Lyrics makes a difference (Suno-specific?)
+- [ ] AI music / platform-specific terms (what's a tag?, etc.)
+- create a tags database (different tags that have the same effect, how different tags influence the output)
