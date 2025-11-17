@@ -6,10 +6,10 @@
 - [ ] add resources folder (for things like links, etc. ([Jack Righteous](https://jackrighteous.com/pages/suno-ai-meta-tags-guide) guide and so on))
 - [ ] generate Arpeggio Chord samples (add to [Arpeggio Chord](/docs/fundamentals/music-terms/sound-effect-textures/crescendo-dimuendo.md))
 - [ ] genearate Crescendo / Dimuendo samples (add to [Crescendo / Dimuendo](/docs/fundamentals/music-terms/sound-effect-textures/crescendo-dimuendo.md))
-- [ ] add falsetto in x category
-- [ ] add "ad-lib" in x category
-- [ ] figure out where unknown tags fit (collection of tags to test, etc.)
+- [x] add falsetto in vocal effects category → See [Suno Tags Reference](/docs/platforms/suno-tags.md#vocal-effect-tags)
+- [x] add "ad-lib" in vocal effects category → See [Suno Tags Reference](/docs/platforms/suno-tags.md#vocal-effect-tags)
+- [x] figure out where unknown tags fit (collection of tags to test, etc.) → See [Experimental Tags](/docs/platforms/suno-tags.md#experimental-tags-community-discoveries)
 - [ ] add Experiments (where should they go?) for different colours in Styles
 - [ ] add this somewhere: UK vs. US spelling in Lyrics makes a difference (Suno-specific?)
-- [ ] AI music / platform-specific terms (what's a tag?, etc.)
-- create a tags database (different tags that have the same effect, how different tags influence the output)
+- [x] AI music / platform-specific terms (what's a tag?, etc.) → See [Suno Tags Reference](/docs/platforms/suno-tags.md#what-are-tags)
+- [x] create a tags database (different tags that have the same effect, how different tags influence the output) → See [Suno Tags Reference](/docs/platforms/suno-tags.md)

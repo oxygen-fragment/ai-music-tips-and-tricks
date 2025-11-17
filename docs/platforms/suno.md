@@ -112,14 +112,43 @@ Manual/Auto
 
 ## Song Structure and Lyrics
 
-### Chorus
+Suno supports bracket notation for controlling song structure, vocal effects, and attributes (v5).
 
+**→ See the comprehensive [Suno Tags Reference](suno-tags.md) for all available tags, testing status, and examples.**
+
+### Quick Examples
+
+**Structure tags:**
+```
+[verse]
+Your storytelling lyrics
+
+[chorus]
+Main hook that repeats
+```
+
+**Chorus shorthand:**
 ```
 [chorus]
 Repeat
 ```
 
 With the chorus, you only need to define the lyrics *once*. After the first chorus, you can use the above instead of repeating the entire chorus each time.
+
+**Meta tags (v5):**
+```
+[verse]
+[Energy: Low]
+[Mood: Intimate]
+[Instrumentation: Piano only]
+Your soft, emotional lyrics
+```
+
+**Vocal effects (community-discovered):**
+```
+[reading to a church]
+Creates whispered vocals
+```
 
 ### Lyrics
 

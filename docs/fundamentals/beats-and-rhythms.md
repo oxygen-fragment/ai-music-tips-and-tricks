@@ -267,17 +267,17 @@ Both have 6 beats, but they're grouped differently:
 
 ### Common Prompting Mistakes to Avoid
 
-**Mistake 1: Confusing perceived tempo with actual tempo**
+#### Mistake 1: Confusing perceived tempo with actual tempo
 
 - ❌ "140 BPM trap" → Might give you kick drums at 140 (too fast!)
 - ✅ "70 BPM trap with rolling hi-hats"
 
-**Mistake 2: Not specifying the beat pattern**
+#### Mistake 2: Not specifying the beat pattern
 
 - ❌ "120 BPM electronic" → Could be house, techno, breakbeat, anything
 - ✅ "120 BPM house with four-on-the-floor kick"
 
-**Mistake 3: Assuming genre = tempo**
+#### Mistake 3: Assuming genre = tempo
 
 - ❌ "Trap beat" → Could be 60 BPM, could be 80 BPM
 - ✅ "75 BPM trap beat"

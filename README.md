@@ -20,6 +20,7 @@ A comprehensive guide for music lovers who want to create with AI but don't have
     - [Integration Methods](docs/sound-design/integration-methods.md)
   - [🎹 Platform Guides](#-platform-guides)
     - [Suno](docs/platforms/suno.md)
+      - [Suno Tags Reference](docs/platforms/suno-tags.md) - Complete tag library with testing status
     - [Udio](docs/platforms/udio.md)
     - [Producer.ai](docs/platforms/producer-ai.md)
   - [💡 Prompting](#-prompting)

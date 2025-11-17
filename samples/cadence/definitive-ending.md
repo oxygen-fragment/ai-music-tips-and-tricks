@@ -1,4 +1,4 @@
-# Definitive Ending Cadence Examples
+# Cadence: Definitive Ending Examples
 
 [Definitive Ending](https://suno.com/s/R07pD8QJwK4wv7lN)
 
