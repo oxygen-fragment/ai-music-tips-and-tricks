@@ -55,6 +55,8 @@ No theory knowledge required. Just clear explanations of what you're hearing.
 **Tempo:** 70-90 BPM usually
 **Characteristics:** Imperfect quality (intentional), nostalgic
 
+**Note on tempo:** Some genres have quirks where the *perceived* tempo differs from the actual BPM. For example, trap is produced at 70-80 BPM but feels like 140 BPM due to double-time hi-hats. See [Beats & Rhythms](/docs/fundamentals/beats-and-rhythms.md#production-technicalities-what-you-need-to-know) for details on these production technicalities.
+
 ---
 
 ## Quick Reference: Describing What You Hear
