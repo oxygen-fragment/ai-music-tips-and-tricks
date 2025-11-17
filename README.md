@@ -4,6 +4,53 @@ A comprehensive guide for music lovers who want to create with AI but don't have
 
 **If you find this useful you can  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I5ZJUA3)**
 
+## Table of Contents
+
+- [What's Inside](#whats-inside)
+  - [📚 Fundamentals](#-fundamentals)
+    - [Song Structure](docs/fundamentals/song-structure.md)
+    - [Music Terms](docs/fundamentals/music-terms.md)
+      - Sound Elements: [Melody](docs/fundamentals/music-terms/sound-elements/melody.md) | [Harmony](docs/fundamentals/music-terms/sound-elements/harmony.md) | [Rhythm](docs/fundamentals/music-terms/sound-elements/rhythm.md) | [Tempo](docs/fundamentals/music-terms/sound-elements/tempo.md) | [Timbre](docs/fundamentals/music-terms/sound-elements/timbre.md)
+      - Musical Techniques: [Cadence](docs/fundamentals/music-terms/musical-techniques/cadence.md) | [Dynamics](docs/fundamentals/music-terms/musical-techniques/dynamics.md)
+      - Sound Effects/Textures: [Reverb](docs/fundamentals/music-terms/sound-effect-textures/reverb.md) | [Distortion](docs/fundamentals/music-terms/sound-effect-textures/distortion.md) | [Staccato](docs/fundamentals/music-terms/sound-effect-textures/staccato.md) | [Legato](docs/fundamentals/music-terms/sound-effect-textures/legato.md) | [Syncopation](docs/fundamentals/music-terms/sound-effect-textures/syncopation.md) | [Crescendo/Diminuendo](docs/fundamentals/music-terms/sound-effect-textures/crescendo-dimuendo.md) | [Arpeggio/Chords](docs/fundamentals/music-terms/sound-effect-textures/arpeggio-chords.md)
+    - [Beats & Rhythms](docs/fundamentals/beats-and-rhythms.md) - **NEW:** Production technicalities, trap tempo paradox, half-time/double-time
+  - [🎤 Sound Design](#-sound-design)
+    - [DIY Recording](docs/sound-design/diy-recording.md)
+    - [Processing Sounds](docs/sound-design/processing-sounds.md)
+    - [Integration Methods](docs/sound-design/integration-methods.md)
+  - [🎹 Platform Guides](#-platform-guides)
+    - [Suno](docs/platforms/suno.md)
+    - [Udio](docs/platforms/udio.md)
+    - [Producer.ai](docs/platforms/producer-ai.md)
+  - [💡 Prompting](#-prompting)
+    - [Prompt Guide](docs/prompting/prompt-guide.md)
+    - [Music Prompting Deep Research](docs/prompting/music-prompting-deep-research.md)
+  - [🎵 Sample Library](#-sample-library)
+    - Beats: [4-on-Floor](samples/beats/4-on-floor.md) | [Boom-Bap](samples/beats/boom-bap.md) | [Trap](samples/beats/trap.md) | [Breakbeat](samples/beats/breakbeat.md) | [Waltz](samples/beats/waltz.md) | [Shuffle](samples/beats/shuffle.md) | [Polyrhythm](samples/beats/polyrhythm.md)
+    - Tempo: [Slow](samples/tempo/slow-tempo.md) | [Moderate](samples/tempo/moderate-pace.md) | [Uptempo](samples/tempo/uptempo.md)
+    - Melodies: [Simple](samples/melodies/simple-melodic-line.md) | [Catchy](samples/melodies/catchy-melody.md) | [Complex Runs](samples/melodies/complex-melodic-runs.md)
+    - Harmonies: [Minimal](samples/harmonies/minimal-harmonies.md) | [Rich](samples/harmonies/rich-harmonies.md) | [Tight Vocal](samples/harmonies/tight-vocal-harmonies.md)
+    - Rhythm: [Steady](samples/rhythm/steady-rhythm.md) | [Driving](samples/rhythm/driving-rhythm.md) | [Syncopated](samples/rhythm/syncopated-rhythm.md)
+    - Timbre: [Warm Acoustic](samples/timbre/warm-acoustic-guitar.md) | [Bright Synth](samples/timbre/bright-synth-leads.md) | [Dark Bass](samples/timbre/dark-brooding-bass.md)
+    - Dynamics: [Soft/Intimate](samples/dynamics/soft-and-intimate.md) | [Quiet Verse/Explosive Chorus](samples/dynamics/quiet-verse-explosive-chorus.md) | [Gradual Build](samples/dynamics/gradual-build.md)
+    - Cadence: [Definitive Ending](samples/cadence/definitive-ending.md) | [Unresolved Ending](samples/cadence/unresolved-ending.md)
+    - Vocals: [Acapella](samples/vocals/acapella.md)
+- [Quick Start Examples](#quick-start-examples)
+  - [Basic Structure Tags](#basic-structure-tags)
+  - [Vocal Style Control](#vocal-style-control)
+  - [Alternating Vocals](#alternating-vocals)
+- [Specific Samples](#specific-samples)
+  - [Acapella](#acapella)
+- [Platform-Specific Tips](#platform-specific-tips)
+  - [Suno](#suno)
+    - [Inspiration Playlist Method](#inspiration-playlist-method)
+  - [Udio](#udio)
+- [Contributing](#contributing)
+- [Learning Path](#learning-path)
+  - [New to Music?](#new-to-music-start-here)
+  - [Know the Basics?](#know-the-basics)
+  - [Advanced?](#advanced)
+
 ## What's Inside
 
 ### 📚 [Fundamentals](docs/fundamentals/)
