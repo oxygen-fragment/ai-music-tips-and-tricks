@@ -16,3 +16,4 @@
 - [ ] add other terminology such as stems (dry stems vs. wet stems (and any other terms that we discover))
 - [ ] define acceptable tolerance for when tags work (reliability) (e.g. [speaking through laughter] has a 1/30 chance of working (user reported))
   - Note: a 1/30 chance means that you risk using 300 credits just to get the [speaking through laughter] effect to work, and that doesn't even account for all the other variables that can change in the track
+- [ ] add list of instruments that work solo (without any accomanying instruments), e.g. accoustic guitar, piano, harpsichord, accordian, etc.
