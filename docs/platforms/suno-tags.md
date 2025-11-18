@@ -10,6 +10,7 @@ A comprehensive guide to Suno's bracket notation system for controlling song str
 - [Tag Types Overview](#tag-types-overview)
 - [Structure Tags](#structure-tags-high-reliability)
 - [Meta Tags (Suno v5)](#meta-tags-suno-v5)
+  - [Comprehensive Instrument Reference](#comprehensive-instrument-reference)
 - [Vocal Effect Tags](#vocal-effect-tags)
 - [Experimental Tags](#experimental-tags-community-discoveries)
 - [Known Non-Working Tags](#known-non-working-tags)
@@ -263,6 +264,114 @@ We rise above the storm!
 - Use "Add" to layer instruments
 - "Only" for stripped-down sections
 - Works better with established style in Style field
+
+#### Comprehensive Instrument Reference
+
+##### String Instruments
+- **Acoustic guitar** - Warm, organic sound; works well solo
+- **Electric guitar** - Versatile; clean, distorted, or overdriven
+- **Bass guitar** - Foundation of rhythm section
+- **Violin** - Classical to folk applications
+- **Viola** - Deeper than violin, rich mid-range
+- **Cello** - Deep, emotional resonance
+- **Double bass** / **Upright bass** - Jazz and classical foundation
+- **Harp** - Ethereal, classical elegance; works solo
+- **Banjo** - Bright, folk/bluegrass character
+- **Mandolin** - Bright, fast tremolo capable
+- **Ukulele** - Light, cheerful tone
+
+##### Keyboard Instruments
+- **Piano** - Versatile, works excellently solo
+- **Electric piano** / **Rhodes** - Warm, vintage character
+- **Keyboard** (electric) - General synthesized sounds
+- **Harpsichord** - Baroque, plucked string mechanism; works solo
+- **Organ** / **Hammond organ** - Church or rock tones
+- **Synthesizer** / **Synth** - Electronic, customizable timbres
+- **Accordion** - Folk, polka, tango character; works solo
+- **Celeste** - Delicate, bell-like tone
+
+##### Percussion & Drums
+- **Drums** / **Drum kit** - Standard rock/pop percussion
+- **Acoustic drums** - Natural, dynamic sound
+- **Electronic drums** - Precise, synthetic percussion
+- **808s** - Classic electronic bass drum/percussion
+- **Hi-hat** - Crisp rhythmic element
+- **Snare drum** - Sharp, cutting accent
+- **Kick drum** / **Bass drum** - Low-end foundation
+- **Toms** - Melodic drum fills
+- **Cymbals** - Crash, ride, splash accents
+- **Congas** - Latin/Afro-Cuban percussion
+- **Bongos** - Higher-pitched hand drums
+- **Tambourine** - Jingle accent
+- **Shaker** - Subtle rhythm texture
+- **Djembe** - West African hand drum
+- **Tabla** - Indian classical percussion pair
+- **Timpani** / **Kettle drums** - Orchestral pitched percussion
+- **Marimba** - Warm, wooden mallet percussion
+- **Xylophone** - Bright, wooden mallet percussion
+- **Vibraphone** / **Vibes** - Metallic, jazz mallet percussion
+- **Glockenspiel** - Bright, bell-like metallic sound
+
+##### Brass Instruments
+- **Trumpet** - Bright, cutting lead voice
+- **Trombone** - Smooth, sliding mid-range brass
+- **French horn** - Warm, noble orchestral brass
+- **Tuba** - Deep, powerful bass brass
+- **Saxophone** (Alto, Tenor, Baritone) - Jazz, smooth or aggressive
+- **Flugelhorn** - Mellow, darker than trumpet
+- **Cornet** - Warmer alternative to trumpet
+
+##### Woodwind Instruments
+- **Flute** - Airy, classical to jazz
+- **Clarinet** - Warm, versatile range
+- **Oboe** - Nasal, penetrating classical tone
+- **Bassoon** - Deep, reedy woodwind bass
+- **Piccolo** - Very high, piercing flute family
+- **Recorder** - Simple, breathy folk instrument
+- **Pan flute** - Ethereal, multi-pipe wind
+- **Harmonica** - Blues, folk, country
+- **Bagpipes** - Scottish, droning pipes
+
+##### Electronic & Synthesized
+- **Synthesizer** / **Synth** - Electronic, programmable sounds
+- **Synth bass** - Electronic bass sounds
+- **Synth pad** / **Ambient pads** - Atmospheric, sustained textures
+- **Synth leads** - Melodic electronic voices
+- **Arpeggiator** - Sequenced, rhythmic synth patterns
+- **Vocoder** - Robotic, processed vocal effect
+- **Theremin** - Eerie, hands-free electronic
+- **Drum machine** - Programmed electronic beats
+- **Sampler** - Plays back recorded sounds
+
+##### World & Traditional Instruments
+- **Sitar** - Indian classical, resonant strings
+- **Didgeridoo** - Australian aboriginal drone
+- **Bouzouki** - Greek, bright mandolin family
+- **Shamisen** - Japanese three-string
+- **Koto** - Japanese zither-like strings
+- **Erhu** - Chinese two-string fiddle
+- **Oud** - Middle Eastern lute
+- **Steel drums** / **Steel pan** - Caribbean melodic percussion
+- **Kalimba** / **Thumb piano** - African melodic plucked
+
+##### Orchestral Ensembles
+- **String section** / **Strings** - Violin, viola, cello, bass ensemble
+- **String quartet** - Two violins, viola, cello
+- **Brass section** - Trumpet, trombone, horn ensemble
+- **Woodwind section** - Flute, clarinet, oboe, bassoon ensemble
+- **Full orchestra** - Complete symphonic instrumentation
+- **Chamber orchestra** - Smaller classical ensemble
+
+##### Instruments That Work Well Solo
+
+These instruments have been tested and work reliably without accompaniment:
+- Acoustic guitar
+- Piano
+- Harpsichord
+- Accordion
+- Harp
+- Classical guitar
+- Cello (with careful prompting)
 
 ---
 

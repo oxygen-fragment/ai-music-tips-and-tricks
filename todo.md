@@ -16,13 +16,10 @@
 - [ ] add other terminology such as stems (dry stems vs. wet stems (and any other terms that we discover))
 - [ ] define acceptable tolerance for when tags work (reliability) (e.g. [speaking through laughter] has a 1/30 chance of working (user reported))
   - Note: a 1/30 chance means that you risk using 300 credits just to get the [speaking through laughter] effect to work, and that doesn't even account for all the other variables that can change in the track
-- [ ] add list of instruments that reliably work solo (without any accomanying instruments), e.g. accoustic guitar, piano, harpsichord, accordian, etc.
-- [ ] build out instrument list, so far we have:
-  - accoustic guitar
-  - electric guitar
-  - piano
-  - keyboard (electric)
-  - harpsichord (harp)
-  - accordian
-  - drums
-  - 808s
+- [x] add list of instruments that reliably work solo (without any accomanying instruments), e.g. accoustic guitar, piano, harpsichord, accordian, etc. → See [Comprehensive Instrument Reference](/docs/platforms/suno-tags.md#comprehensive-instrument-reference) - "Instruments That Work Well Solo" section
+- [x] build out instrument list → See [Comprehensive Instrument Reference](/docs/platforms/suno-tags.md#comprehensive-instrument-reference) with 100+ instruments organized by category
+- [ ] add error messages, e.g.
+  - "can't retrieve edited track" (received when trying to remove a small section at the start of the song)
+- [ ] add and experiment with various techniques, e.g.
+  - "aligning" vocals with instruments (heavy, throaty vocals alongside heavy guiter)
+- [ ]
