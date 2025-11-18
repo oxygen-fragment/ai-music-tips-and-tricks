@@ -22,4 +22,3 @@
   - "can't retrieve edited track" (received when trying to remove a small section at the start of the song)
 - [ ] add and experiment with various techniques, e.g.
   - "aligning" vocals with instruments (heavy, throaty vocals alongside heavy guiter)
-- [ ]
