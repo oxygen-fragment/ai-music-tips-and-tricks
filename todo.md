@@ -13,3 +13,6 @@
 - [ ] add this somewhere: UK vs. US spelling in Lyrics makes a difference (Suno-specific?)
 - [x] AI music / platform-specific terms (what's a tag?, etc.) → See [Suno Tags Reference](/docs/platforms/suno-tags.md#what-are-tags)
 - [x] create a tags database (different tags that have the same effect, how different tags influence the output) → See [Suno Tags Reference](/docs/platforms/suno-tags.md)
+- [ ] add other terminology such as stems (dry stems vs. wet stems (and any other terms that we discover))
+- [ ] define acceptable tolerance for when tags work (reliability) (e.g. [speaking through laughter] has a 1/30 chance of working (user reported))
+  - Note: a 1/30 chance means that you risk using 300 credits just to get the [speaking through laughter] effect to work, and that doesn't even account for all the other variables that can change in the track
