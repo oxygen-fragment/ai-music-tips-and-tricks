@@ -22,3 +22,7 @@
   - "can't retrieve edited track" (received when trying to remove a small section at the start of the song)
 - [ ] add and experiment with various techniques, e.g.
   - "aligning" vocals with instruments (heavy, throaty vocals alongside heavy guiter)
+
+## Legal stuff
+
+- [x] research copyright to understand when something breaches copyright vs. safe (e.g. with lyrics, do they need to be verbatim to breach copyright? Is there a similarity threshold?) → See [Copyright & Legal Guide](/docs/copyright-and-legal.md)

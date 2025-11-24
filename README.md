@@ -54,6 +54,7 @@ A comprehensive guide for music lovers who want to create with AI but don't have
     - [FAQ](docs/faq.md) 🚧 - Frequently asked questions
     - [Version Tracking](docs/version-tracking.md) 🚧 - Platform update history
     - [Community Examples](docs/community-examples.md) 🚧 - User submissions welcome!
+    - [Copyright & Legal Guide](docs/copyright-and-legal.md) ✅ - Lyrics copyright explained (not legal advice)
 - [Quick Start Examples](#quick-start-examples) ✅
 - [Contributing](#contributing)
 - [Learning Path](#learning-path)
@@ -114,6 +115,9 @@ Real examples with prompts and analysis. **Status: Partial - many placeholders.*
 > **Help wanted:** [Contribute sample content](docs/community-examples.md#how-to-contribute)
 
 ### 🔧 [Resources](docs/) 🚧
+
+**Complete:**
+- ✅ [Copyright & Legal Guide](docs/copyright-and-legal.md) - Comprehensive guide to lyrics and copyright (educational, not legal advice)
 
 **NEW - Skeleton outlines available:**
 - 🚧 [Troubleshooting Guide](docs/troubleshooting.md) - Common issues (structure ready, content needed)
