@@ -10,7 +10,7 @@
 - [x] add "ad-lib" in vocal effects category → See [Suno Tags Reference](/docs/platforms/suno-tags.md#vocal-effect-tags)
 - [x] figure out where unknown tags fit (collection of tags to test, etc.) → See [Experimental Tags](/docs/platforms/suno-tags.md#experimental-tags-community-discoveries)
 - [ ] add Experiments (where should they go?) for different colours in Styles
-- [ ] add this somewhere: UK vs. US spelling in Lyrics makes a difference (Suno-specific?)
+- [x] add this somewhere: UK vs. US spelling in Lyrics makes a difference (Suno-specific?) → See [Dialect & Accent Control Experiments](/prompt-experiments/dialect-accent-control.md) - ACTIVE TESTING
 - [x] AI music / platform-specific terms (what's a tag?, etc.) → See [Suno Tags Reference](/docs/platforms/suno-tags.md#what-are-tags)
 - [x] create a tags database (different tags that have the same effect, how different tags influence the output) → See [Suno Tags Reference](/docs/platforms/suno-tags.md)
 - [ ] add other terminology such as stems (dry stems vs. wet stems (and any other terms that we discover))
@@ -26,3 +26,7 @@
 ## Legal stuff
 
 - [x] research copyright to understand when something breaches copyright vs. safe (e.g. with lyrics, do they need to be verbatim to breach copyright? Is there a similarity threshold?) → See [Copyright & Legal Guide](/docs/copyright-and-legal.md)
+
+## Suno-specific
+
+- [ ] feature request: include link to original song on remixes (right now there only appears to be internal linking to original song)
