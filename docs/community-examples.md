@@ -37,6 +37,7 @@ Want to share your creation? We'd love to feature it!
 8. **Your Name/Credit** - How you'd like to be credited
 
 **Optional but awesome:**
+
 - Waveform screenshot
 - Iteration history (what you tried before this worked)
 - Comparison audio (before/after tweaks)
@@ -44,11 +45,13 @@ Want to share your creation? We'd love to feature it!
 ### How to Submit
 
 **Option 1: GitHub Issue**
+
 - [Open a Community Example issue](https://github.com/oxygen-fragment/ai-music-tips-and-tricks/issues/new)
 - Use the template
 - We'll review and add to this page
 
 **Option 2: Pull Request**
+
 - Add your example to this file
 - Follow the format below
 - Submit PR
@@ -161,6 +164,7 @@ Help us build this section by [submitting your work](#how-to-contribute)!
 > 📝 **No examples yet** - [Be the first to contribute!](#how-to-contribute)
 
 **Looking for:**
+
 - Complex song structures
 - Creative use of bridge sections
 - Pre-chorus techniques
@@ -172,6 +176,7 @@ Help us build this section by [submitting your work](#how-to-contribute)!
 > 📝 **No examples yet** - [Be the first to contribute!](#how-to-contribute)
 
 **Looking for:**
+
 - Energy level transitions
 - Mood changes
 - Instrumentation control
@@ -183,6 +188,7 @@ Help us build this section by [submitting your work](#how-to-contribute)!
 > 📝 **No examples yet** - [Be the first to contribute!](#how-to-contribute)
 
 **Looking for:**
+
 - Examples applying [Trap Tempo Paradox](../samples/beats/trap.md#the-trap-tempo-paradox)
 - 70 BPM vs 140 BPM comparisons
 
@@ -193,6 +199,7 @@ Help us build this section by [submitting your work](#how-to-contribute)!
 > 📝 **No examples yet** - [Be the first to contribute!](#how-to-contribute)
 
 **Looking for:**
+
 - Piano solo
 - Acoustic guitar solo
 - Any instrument from [solo instruments list](platforms/suno-tags.md#instruments-that-work-well-solo)
@@ -204,6 +211,7 @@ Help us build this section by [submitting your work](#how-to-contribute)!
 > 📝 **No examples yet** - [Be the first to contribute!](#how-to-contribute)
 
 **Looking for:**
+
 - Alternating vocal styles
 - Vocal effects ([reading to a church], etc.)
 - A cappella
@@ -215,6 +223,7 @@ Help us build this section by [submitting your work](#how-to-contribute)!
 > 📝 **No examples yet** - [Be the first to contribute!](#how-to-contribute)
 
 **Looking for:**
+
 - Multi-technique combinations
 - Genre blending
 - Dynamic song progression
@@ -246,6 +255,7 @@ Help us build this section by [submitting your work](#how-to-contribute)!
 > 📝 **No examples yet** - [Be the first to contribute!](#how-to-contribute)
 
 **Looking for:**
+
 - Same prompt on different platforms
 - Quality comparisons
 - Feature comparisons
@@ -259,6 +269,7 @@ Help us build this section by [submitting your work](#how-to-contribute)!
 > 💬 **No stories yet** - [Share your journey!](#how-to-contribute)
 
 **Looking for:**
+
 - How this guide helped you
 - Your learning progression
 - Breakthrough moments
@@ -270,6 +281,7 @@ Help us build this section by [submitting your work](#how-to-contribute)!
 > 💬 **No stories yet** - [Share your success!](#how-to-contribute)
 
 **Looking for:**
+
 - Tracks used commercially
 - Client projects
 - Revenue-generating music
@@ -283,6 +295,7 @@ Help us build this section by [submitting your work](#how-to-contribute)!
 > 💬 **No examples yet** - [Share your experiments!](#how-to-contribute)
 
 **Looking for:**
+
 - New techniques discovered
 - Tag combinations not yet documented
 - Novel approaches
@@ -307,6 +320,7 @@ Hall of fame for community members who've shared excellent examples:
 > 🧪 **No comparisons yet** - [Submit A/B tests!](#how-to-contribute)
 
 **Looking for:**
+
 - Before/after prompt tweaks
 - Parameter change effects
 - Technique comparisons
@@ -318,6 +332,7 @@ Hall of fame for community members who've shared excellent examples:
 > 🧪 **No examples yet** - [Share your iteration process!](#how-to-contribute)
 
 **Looking for:**
+
 - Show how you refined a track through multiple generations
 - What changed between iterations
 - What you learned
@@ -346,6 +361,7 @@ Regular challenges to encourage experimentation:
 
 **Example Challenge:**
 > **Challenge #1: Solo Acoustic**
+>
 > - Create a solo acoustic guitar track
 > - Use only structure tags (no meta tags)
 > - 60-90 seconds

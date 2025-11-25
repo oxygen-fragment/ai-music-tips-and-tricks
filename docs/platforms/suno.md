@@ -150,6 +150,23 @@ Your soft, emotional lyrics
 Creates whispered vocals
 ```
 
+**Accent & Pronunciation Control (NEW - 2025-11-24):**
+
+Phonetic spelling and dialect variations in lyrics can control vocal accent!
+
+- **Confirmed:** Jamaican Patois produces authentic Jamaican accent
+  - Example: "Yu a fi mi favorite color" → Jamaican accent
+  - Standard: "You are my favorite color" → Generic accent
+
+- **Testing:** Other dialects, pronunciation control, genre matching
+- **Full experiments:** See [Dialect & Accent Control](../../prompt-experiments/dialect-accent-control.md)
+
+**Potential applications:**
+- Match accent to genre (Reggae + Patois, Country + Southern drawl)
+- Control pronunciation of ambiguous words
+- Create character differentiation in narrative songs
+- Force specific vocal delivery styles
+
 ### Lyrics
 
 Leave lyrics blank for an instrumental track.

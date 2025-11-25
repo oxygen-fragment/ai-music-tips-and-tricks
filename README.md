@@ -186,6 +186,31 @@ Credit: [@mixofthings](https://suno.com/@mixofthings) - [Sermon of the Hollow Su
 
 ---
 
+## Active Experiments 🧪
+
+### Dialect & Accent Control
+
+**New Discovery:** Phonetic spelling and dialect variations in lyrics can control vocal accent!
+
+- ✅ **Confirmed:** Jamaican Patois spelling produces authentic Jamaican accent
+- 🧪 **Testing:** Multiple dialects, phonetic intensity, genre matching
+- 📊 **Comprehensive Tests:** Full song structures with verse + chorus for reliable results
+- [Experiment framework](prompt-experiments/dialect-accent-control.md) | [Ready-to-test prompts](prompt-experiments/dialect-comprehensive-tests.md)
+
+**Quick Example:**
+- Standard: "You are my favorite color"
+- Jamaican Patois: "Yu a fi mi favorite color" → **Produces Jamaican accent!**
+
+**Test Sets Available:**
+- "Summer Rain" in 5 dialects (American, Jamaican, Southern, Cockney, Australian)
+- "City Lights" with progressive phonetic intensity (5 levels)
+- Genre-dialect matching pairs (does Reggae + Patois work better than Classical + Patois?)
+- Mixed accent sections (can you switch mid-song?)
+
+[See all active experiments →](prompt-experiments/)
+
+---
+
 ## Specific Samples
 
 ### Acapella
