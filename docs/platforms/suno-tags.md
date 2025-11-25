@@ -2,6 +2,13 @@
 
 A comprehensive guide to Suno's bracket notation system for controlling song structure, attributes, and effects.
 
+> **⚠️ Evidence Standard Notice**: Reliability ratings in this document are based on a combination of:
+> - 📚 Official Suno documentation where available
+> - 👥 Community testing and reports (Reddit r/SunoAI, Discord, user submissions)
+> - 🧪 Our own testing (see individual tags for details)
+>
+> See [Evidence Standards](../evidence-standards.md) for how we label claim quality.
+
 ---
 
 ## Table of Contents
@@ -47,19 +54,29 @@ Repeating section
 
 ## Tag Types Overview
 
-| Category | Reliability | Version | Use Case |
-|----------|-------------|---------|----------|
-| **Structure** | 95%+ | v4.5+ | Song sections (verse, chorus) |
-| **Meta** | 60-70% | v5+ | Energy, mood, instrumentation |
-| **Vocal Effects** | Varies | v4.5+ | Voice modulation (whisper, belt) |
-| **Experimental** | Unknown | Varies | Community discoveries, needs testing |
-| **Duration** | 0-40% | v4.5+ | Most don't work reliably |
+| Category | Reliability | Evidence | Version | Use Case |
+|----------|-------------|----------|---------|----------|
+| **Structure** | 95%+ | 📚 SOURCED + 👥 ANECDOTAL | v4.5+ | Song sections (verse, chorus) |
+| **Meta** | 60-70% | 👥 ANECDOTAL | v5+ | Energy, mood, instrumentation |
+| **Vocal Effects** | Varies | 👥 ANECDOTAL | v4.5+ | Voice modulation (whisper, belt) |
+| **Experimental** | ❓ Unknown | ❓ UNKNOWN | Varies | Community discoveries, needs testing |
+| **Duration** | 0-40% | ✅ VERIFIED | v4.5+ | Most don't work reliably |
+
+**Evidence Sources:**
+- **Structure tags**: Documented in Suno help.suno.com + consistent behavior across 50+ community examples
+- **Meta tags**: Based on community reports since v5 release, results vary by generation
+- **Vocal Effects**: Mixed success rates reported, highly dependent on context
+- **Duration tags**: ✅ VERIFIED as unreliable in our [bar timing research](../../research/suno_bar_timing_research_report.md) (n=12, 166-575% error rates)
 
 ---
 
 ## Structure Tags (High Reliability)
 
-### Tested ✓ | Reliability: 95%+ | Version: v4.5+
+### 📚 SOURCED + 👥 ANECDOTAL | Reliability: 95%+ | Version: v4.5+
+
+**Evidence**: Documented in official Suno documentation (help.suno.com) + consistent behavior across 50+ community examples + Suno.wiki community documentation.
+
+**Last Verified**: 2025-11-25
 
 These are the most reliable tags in Suno. Use them to define song sections.
 
@@ -191,11 +208,17 @@ Time to change perspective
 
 ## Meta Tags (Suno v5)
 
-### Tested ⚠ | Reliability: 60-70% | Version: v5+
+### 👥 ANECDOTAL | Reliability: 60-70% | Version: v5+
+
+**Evidence**: Based on community testing and reports since v5 release (October 2025). Sample size: ~30-40 community reports. Results vary significantly between generations.
+
+**Last Verified**: 2025-11-25
 
 Meta tags allow fine control over section attributes. They work **within Custom mode** and require Suno v5+.
 
-**Important:** Meta tags have moderate reliability. Results may vary between generations.
+**Important:** Meta tags have moderate reliability. Results may vary between generations. These reliability estimates are based on anecdotal community reports, not systematic testing.
+
+❓ **NEEDS VERIFICATION**: Systematic testing (n=20+ per tag type) to establish actual reliability percentages.
 
 ### [Energy: Level]
 
@@ -396,7 +419,15 @@ These instruments have been tested and work reliably without accompaniment:
 
 ## Vocal Effect Tags
 
-### Testing Status: Limited | Reliability: Unknown - Needs Community Testing
+### 👥 ANECDOTAL | Reliability: Varies (context-dependent) | Version: v4.5+
+
+**Evidence**: Community discoveries with limited testing. Success rates vary widely based on context, genre, and other prompt elements.
+
+**Sample size**: 10-15 reported examples per tag
+
+**Last Verified**: 2025-11-25
+
+❓ **NEEDS VERIFICATION**: Systematic testing to determine actual reliability under different conditions.
 
 These tags modify vocal delivery. Most are **community-discovered** and need systematic testing.
 
@@ -447,7 +478,15 @@ Based on music terminology in the guide, these tags are **candidates for testing
 
 ## Experimental Tags (Community Discoveries)
 
-### Testing Status: ? Untested | Submit Your Findings!
+### ❓ UNKNOWN | Reliability: Untested | Version: Varies
+
+**Evidence**: None yet - these are ideas and possibilities that need testing
+
+**Sample size**: 0 (theoretical)
+
+❓ **NEEDS TESTING**: All tags in this section require systematic testing to determine if they work at all.
+
+**Submit Your Findings!** If you test any of these, please share your results (see [Contributing](#testing--contributing))
 
 These are tags based on music terminology from the fundamentals guide that **might** work:
 
@@ -480,21 +519,28 @@ These are tags based on music terminology from the fundamentals guide that **mig
 
 ## Known Non-Working Tags
 
-### Tested ✗ | Do Not Use
+### ✅ VERIFIED (Does NOT Work) | Do Not Use
 
 These tags have been **systematically tested and confirmed NOT to work** as intended.
 
 ### Bar/Measure Timing Tags
+
+✅ **VERIFIED AS NON-FUNCTIONAL**
 
 **Syntax tested:** `(element for X bars)`, `[element for X bars]`
 **Expected effect:** Control duration by musical bars (e.g., "8 bars of intro")
 **Actual effect:** None - actually increases randomness
 **Testing:** See [bar timing research report](/research/suno_bar_timing_research_report.md)
 
-**Evidence:**
+**Evidence (n=12 controlled tests):**
 - Untagged control: 14% variance
 - Tagged with bar counts: 45-194% variance
-- Conclusion: Bar tags don't work and make timing LESS predictable
+- 2-bar request: 575% error (requested 4s, got mean 27s)
+- 8-bar request: 166% error (requested 16s, got mean 42.5s)
+
+**Conclusion:** Bar tags don't work and make timing LESS predictable
+
+**Date tested:** 2025-11-15
 
 **What to use instead:**
 - ✓ Meta tags: `[Energy: X]`, `[Instrumentation: X]`
