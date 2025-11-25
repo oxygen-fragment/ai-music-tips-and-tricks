@@ -36,7 +36,8 @@ A comprehensive guide for music lovers who want to create with AI but don't have
     - [Producer.ai](docs/platforms/producer-ai.md) 📝 - Coming soon
     - [Platform Comparison](docs/platform-comparison.md) 🚧 - Feature & quality comparison
   - [💡 Prompting](#-prompting)
-    - [Prompt Guide](docs/prompting/prompt-guide.md) ⚠️ - Minimal content, needs expansion
+    - [Prompt Interpretability](docs/prompting/prompt-interpretability.md) ✅ - What AI models actually understand
+    - [Prompt Guide](docs/prompting/prompt-guide.md) ✅ - Basic principles with interpretability overview
     - [Prompt Templates](docs/prompt-templates.md) 🚧 - Ready-to-use templates
     - [Music Prompting Deep Research](docs/prompting/music-prompting-deep-research.md) ✅
   - [🎵 Sample Library](#-sample-library) ⚠️ - Partial content
@@ -94,8 +95,9 @@ Platform-specific techniques and documentation.
 
 Learn how to craft effective prompts.
 
-- ✅ [Music Prompting Deep Research](docs/prompting/music-prompting-deep-research.md) - Research-backed techniques
-- ⚠️ [Prompt Guide](docs/prompting/prompt-guide.md) - Basic principles (needs expansion)
+- ✅ [Prompt Interpretability](docs/prompting/prompt-interpretability.md) - Understand what AI models actually "see" in your prompts with the four-dimension framework
+- ✅ [Prompt Guide](docs/prompting/prompt-guide.md) - Basic principles: priority system and interpretability overview
+- ✅ [Music Prompting Deep Research](docs/prompting/music-prompting-deep-research.md) - Research-backed techniques for timing and structure control
 - 🚧 [Prompt Templates](docs/prompt-templates.md) - Ready-to-use templates (skeleton)
 
 ### 🎵 [Sample Library](samples/) ⚠️
