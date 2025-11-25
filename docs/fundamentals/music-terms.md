@@ -89,6 +89,15 @@ No theory knowledge required. Just clear explanations of what you're hearing.
 
 **Both work.** Use whatever feels natural to you.
 
+### Technical vs Descriptive: Which is Better?
+
+While both approaches work, they have different levels of **interpretability**—how clearly the AI model understands your intent:
+
+- **🟢 Technical terms** (like "120 BPM", "Staccato", "Crescendo") have **high interpretability**: The model has strong training data associations and produces more consistent results
+- **🟡 Descriptive terms** (like "upbeat", "choppy", "building") have **medium interpretability**: The model understands the general vibe but interprets more broadly
+
+**Want to learn more?** See [Prompt Interpretability Guide](/docs/prompting/prompt-interpretability.md) to understand what AI models actually "see" when processing different types of prompts, and how to write instructions that get you closer to your vision.
+
 **Experiment:**
 
 - Same prompt with "staccato" vs "legato"
