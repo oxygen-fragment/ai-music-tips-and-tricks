@@ -9,7 +9,9 @@
 Throughout this repository, you'll see evidence labels indicating the quality and source of information:
 
 ### ✅ VERIFIED
+
 **What it means:**
+
 - Tested in our controlled experiments (see `/research` directory)
 - Documented in official platform documentation with links
 - Consistently reproducible across multiple tests
@@ -23,7 +25,9 @@ Throughout this repository, you'll see evidence labels indicating the quality an
 ---
 
 ### 📚 SOURCED
+
 **What it means:**
+
 - Found in quality external sources
 - Research papers, technical documentation, developer blogs
 - Always cited with accessible links
@@ -37,7 +41,9 @@ Throughout this repository, you'll see evidence labels indicating the quality an
 ---
 
 ### 👥 ANECDOTAL
+
 **What it means:**
+
 - Community reports (Reddit, Discord, forums, user submissions)
 - Multiple people report similar experiences
 - Not systematically tested in controlled conditions
@@ -51,7 +57,9 @@ Throughout this repository, you'll see evidence labels indicating the quality an
 ---
 
 ### 💭 HYPOTHESIS
+
 **What it means:**
+
 - Based on understanding of model architecture
 - Logical inference from verified facts
 - Educated guess with reasoning explained
@@ -66,7 +74,9 @@ Throughout this repository, you'll see evidence labels indicating the quality an
 ---
 
 ### ❓ UNKNOWN
+
 **What it means:**
+
 - We genuinely don't know
 - Needs research and testing
 - We're asking for help to investigate
@@ -84,6 +94,7 @@ Throughout this repository, you'll see evidence labels indicating the quality an
 When we provide reliability percentages (e.g., "Structure tags: 95% reliable"), we document:
 
 ### Required Information
+
 - **Source**: Where the number comes from
 - **N**: How many tests/examples/reports
 - **Date**: When last verified (models and platforms update!)
@@ -91,6 +102,7 @@ When we provide reliability percentages (e.g., "Structure tags: 95% reliable"), 
 - **Platform/Version**: Which platform and version tested
 
 ### Example (Good)
+
 ```markdown
 **Structure Tags**: 95% reliable ✅ VERIFIED
 
@@ -102,6 +114,7 @@ When we provide reliability percentages (e.g., "Structure tags: 95% reliable"), 
 ```
 
 ### Example (Needs Improvement)
+
 ```markdown
 **Structure Tags**: 95% reliable
 
@@ -115,6 +128,7 @@ When we provide reliability percentages (e.g., "Structure tags: 95% reliable"), 
 **If you see a claim without an evidence label, please report it!**
 
 This can happen when:
+
 - Document is being actively developed
 - We forgot to add labels (human error)
 - Content was added by contributor without following guidelines
@@ -126,17 +140,21 @@ This can happen when:
 ## Updating Claims as Evidence Changes
 
 ### When Evidence Gets Stronger
+
 - Platform releases documentation → Upgrade HYPOTHESIS to SOURCED
 - We complete systematic testing → Upgrade HYPOTHESIS/ANECDOTAL to VERIFIED
 - Multiple community reports confirm → Note increased confidence in ANECDOTAL
 
 ### When Evidence Gets Weaker
+
 - Platform updates change behavior → Reverify or mark as OUTDATED
 - New testing contradicts old findings → Update or mark for re-testing
 - Source becomes unavailable → Document loss of source, downgrade if needed
 
 ### Version Dates Matter
+
 Always include "Last verified: YYYY-MM-DD" for time-sensitive claims, especially:
+
 - Platform-specific features
 - Model version behavior
 - Reliability percentages
@@ -149,6 +167,7 @@ Always include "Last verified: YYYY-MM-DD" for time-sensitive claims, especially
 ### Minimum Standards for VERIFIED Status
 
 **For Effectiveness Claims** (e.g., "X produces more consistent results than Y"):
+
 - Minimum 5 trials per condition
 - Document all settings (platform, version, sliders, etc.)
 - Measure specific outcome (BPM variance, presence/absence, etc.)
@@ -156,12 +175,14 @@ Always include "Last verified: YYYY-MM-DD" for time-sensitive claims, especially
 - Include raw data or link to test report in `/research`
 
 **For Reliability Claims** (e.g., "Works 70% of the time"):
+
 - Minimum 10 trials
 - Clear pass/fail criteria defined upfront
 - Calculate actual percentage from results
 - Document edge cases and failures
 
 **For Architectural Claims** (e.g., "Model cannot do X"):
+
 - Reference technical documentation or research papers
 - Explain the architectural constraint
 - Show multiple attempts at doing X, all failing for same reason
@@ -204,6 +225,7 @@ See [Prompt Testing Protocol](research-methodology/prompt-testing-protocol.md) f
 ### When Submitting Findings
 
 **Include**:
+
 1. Evidence label (be honest about what you know)
 2. Platform and version
 3. What you tested and how many times
@@ -228,12 +250,14 @@ See [Prompt Testing Protocol](research-methodology/prompt-testing-protocol.md) f
 > [Missing: Did you test it? How many times? What happened? What makes it not work?]
 
 ### We Welcome
+
 - ✅ Well-documented test results (become VERIFIED)
 - ✅ Community reports with context (labeled ANECDOTAL)
 - ✅ Hypotheses with clear reasoning (labeled HYPOTHESIS)
 - ✅ Questions and "I don't know" (labeled UNKNOWN)
 
 ### We Ask You to Avoid
+
 - ❌ Stating opinions as facts without evidence
 - ❌ Using definitive language ("always", "never") without data
 - ❌ Copying claims from forums without verification
@@ -244,6 +268,7 @@ See [Prompt Testing Protocol](research-methodology/prompt-testing-protocol.md) f
 ## Special Case: "Works But Don't Know Why"
 
 Sometimes you'll get consistent results from prompts that *theoretically* shouldn't work well:
+
 - Abstract phrases: "Like a summer breeze"
 - Poetic metaphors: "Sounds of thunder"
 - Seeming contradictions: "Soft heavy metal"
@@ -257,15 +282,18 @@ Sometimes you'll get consistent results from prompts that *theoretically* should
 **Example**:
 
 > 👥 ANECDOTAL: "Like a summer breeze" produces light, airy, gentle musical qualities
+>
 > - Tested: 3 times on Suno v5, consistent results
 > - Audio: [link]
 >
 > 💭 HYPOTHESIS - Possible explanations:
+>
 > 1. Component words have audio associations ("breeze" → airy sounds, "summer" → bright)
 > 2. Training data includes poetic music descriptions
 > 3. Models learn metaphorical associations from paired text-audio
 >
 > ❓ UNKNOWN: Which explanation is correct? Does it work consistently? What's the mechanism?
+>
 > - Needs: Systematic testing of metaphorical prompts, comparison to literal equivalents
 
 ---
@@ -273,6 +301,7 @@ Sometimes you'll get consistent results from prompts that *theoretically* should
 ## For Maintainers
 
 ### Reviewing Pull Requests
+
 - [ ] All claims have evidence labels
 - [ ] Sources are cited for VERIFIED and SOURCED claims
 - [ ] Reliability percentages include source/N/date/method
@@ -280,14 +309,18 @@ Sometimes you'll get consistent results from prompts that *theoretically* should
 - [ ] HYPOTHESIS and ANECDOTAL clearly labeled as such
 
 ### Quarterly Audits
+
 Every 3 months, check:
+
 - Are VERIFIED claims still verified? (platforms update)
 - Are sources still accessible?
 - Has ANECDOTAL evidence grown stronger (more reports)?
 - Are there unlabeled claims that slipped through?
 
 ### When Uncertain
+
 **Default to more conservative labels:**
+
 - Not sure if verified? → ANECDOTAL
 - Anecdotal but makes logical sense? → HYPOTHESIS
 - Don't know the mechanism? → UNKNOWN
@@ -299,18 +332,21 @@ Better to under-claim and be trusted than over-claim and lose credibility.
 ## Why This Matters
 
 **For Users:**
+
 - You know what's proven vs. what's experimental
 - You can make informed decisions about what to trust
 - You know where to focus your own testing efforts
 - You understand limitations before wasting credits
 
 **For Contributors:**
+
 - Clear standards for submissions
 - Recognition for quality research
 - Build credibility in the community
 - Push the field forward with evidence
 
 **For the Repository:**
+
 - Maintain scientific rigor
 - Build trust with users
 - Focus research efforts on UNKNOWN areas
